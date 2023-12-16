@@ -1,0 +1,25 @@
+Feedback soutenance:
+Tout les groupes était bien (explication de manière simple)
+Manque de présentation des outils (on se focalise trop sur ce que l'on a fais) -> Expliquer les outils pour les tests, pour déboguer...
+possibilité d'utiliser des IA ? (A utiliser de manière intelligente)
+Github/Microsoft Copilot, 
+Les IA change bcp de chose dans l'informatique ajd
+Question très précise + d'autre question = bon socle 
+
+Regarder si il est possible d'afficher la console dans une interface graphique
+
+
+prochaine séance 29/10/23: présentation + retours de l'avancement
+
+Rôle de Lead Devlopper pour creer le socle avec les fcts de base (vision globale)
+
+Lead Dev = Alexis car + à l'aise
+
+Plein de méthôde possible pour le Lead Dev
+
+Quelqu'un s'occupe des tests (test unitaire...) = Petit bonus
+
+Creer une architecture pour l'organisation du code (expliqué + en détails chaque partie ensuite en disant ce qui est plus compliqué et moins compliqué)
+
+COMMENTER LE CODE (Ultra important)
+Utiliser l'IA pour critiquer le code (manière intélligente de l'utilisation de l'IA)
